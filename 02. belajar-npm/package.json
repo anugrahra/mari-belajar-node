@@ -1,0 +1,18 @@
+{
+  "name": "belajar-npm",
+  "version": "1.0.0",
+  "description": "belajar npm biar keren kalau pake node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello mantan\"",
+    "server": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "anugrah",
+  "license": "ISC",
+  "dependencies": {}
+}
