@@ -1,0 +1,17 @@
+{
+  "name": "03.-belajar-modul",
+  "version": "1.0.0",
+  "description": "belajar modul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modul"
+  ],
+  "author": "anugrah",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
